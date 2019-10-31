@@ -5,11 +5,6 @@
 //  Then use the Lowest Cost Algorithm to find the cheapest path
 //	To connect all other destinations
 //
-// What's on your mind about this lab?
-//  I thought about this Lab and came up with a pretty creative solution
-//  I use "enum" to control array and observed node position.
-//  The solution comes out to be a lot more simpler than I imagined.
-//
 // Author: Jason Yoon
 //
 // Date: 8/10/2018
